@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.exe
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.deps.json
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.runtimeconfig.json
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.dll
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.pdb
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.sourcelink.json
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.dll
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\refint\CalculadoraCsharp.dll
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.pdb
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Documentos\Proyectos\CalculadoraCsharp\obj\Debug\net9.0\ref\CalculadoraCsharp.dll
