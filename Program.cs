@@ -3,46 +3,47 @@
 // Start Menu
 static void Menu()
 {
-    int Input;
-    int Input2;
-    bool IsTrue;
     string? option;
     Console.WriteLine("Please, select a option.");
     Console.WriteLine("1. Sum");
     Console.WriteLine("2. Subtract");
     Console.WriteLine("3. Division");
     Console.WriteLine("4. Multiplication");
+    Console.WriteLine("5. Exit");
     option = Console.ReadLine();
     if (option == "1")
     {
-        do
-        {
-            Console.WriteLine("Please, select the first number.");
-            IsTrue = int.TryParse(Console.ReadLine(), out Input);
-        }
-        while (!IsTrue);
+        (int n1, int n2) = Operations.AddNum();
 
-        do
-        {
-            Console.WriteLine("Please, select the second number.");
-            IsTrue = int.TryParse(Console.ReadLine(), out Input2);
-        }
-        while (!IsTrue);
-
-        Console.WriteLine($"The result is {Operations.Sum(Input, Input2)}");
+        Console.WriteLine($"The result is {Operations.Sum(n1, n2)}");
         Fin();
     }
     else if (option == "2")
     {
+        (int n1, int n2) = Operations.AddNum();
 
+        Console.WriteLine($"The result is {Operations.Subtract(n1, n2)}");
+        Fin();
     }
     else if (option == "3")
     {
+        (int n1, int n2) = Operations.AddNum();
 
+        Console.WriteLine($"The result is {Operations.Division(n1, n2)}");
+        Fin();
     }
     else if (option == "4")
     {
+        (int n1, int n2) = Operations.AddNum();
 
+        Console.WriteLine($"The result is {Operations.Multiplication(n1, n2)}");
+        Fin();
+    }
+    else if (option == "5")
+    {
+        Console.Clear();
+        Console.WriteLine("Thanks for using my calculator!");
+        Environment.Exit(0);
     }
     else
     {
